@@ -123,5 +123,12 @@ Mentored by Dr. Geetha M., CBST, VIT University
 
 ---
 
-(C) 2017-18 <a href="14bme0133.github.io"> < 1 4 B M E 0 1 3 3 /> </a>
-All Directions Reserved.
+---
+
+---
+
+---
+
+
+<br>(C) 2017-18 <a href="14bme0133.github.io"> < / 1 4 B M E 0 1 3 3 /></a><br>All Directions Reserved.<br>
+<hr><hr><hr><hr>
