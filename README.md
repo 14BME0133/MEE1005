@@ -117,10 +117,11 @@ Mentored by Dr. Geetha M., CBST, VIT University
 /    \   
 
  (•_•)   
-<)   )>  DIS   
+<)   )>  N1X   
 /    \   
    
 
 ---
 
-(C) 2017-18 <a href="14bme0133.github.io"> /< 1 4 B M E 0 1 3 3 /> </a>
+(C) 2017-18 <a href="14bme0133.github.io"> < 1 4 B M E 0 1 3 3 /> </a>
+All Directions Reserved.
