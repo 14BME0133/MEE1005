@@ -9,8 +9,17 @@ Materials Engineering and Technology
 #### Coating Thickness 
 ![](coating_thickness)
 
+
+---
+
+
 #### Al-Fe Alloy
 ![](14BME0133AL1.bmp)
+
+
+
+
+---
 
 
 #### Carbon Steel under observation:
@@ -19,42 +28,79 @@ Materials Engineering and Technology
 Low - LOW : Carbon Steel
 
 
-#### C && Fe Alloy : LOW DOPEcastironon Steel Microstructure analysis by 14BME0133, VIT University
-![](14BME0133G3Mediumcarbonsteel11.bmp)
+
+
+---
+
+
+#### C && Fe Alloy : LOW DOPE castironon 
+##### C + Fe (Steel) Microstructure analysis by 14BME0133, VIT University
+![](14BME0133G3Mediumcarbonsteel11)  
 Medium - LOW : Carbon Steel
+
+
+
+
+---
 
 
 #### C && Fe Alloy : MEDIUM
 ##### Carbon Steel Microstructure analysis by 14BME0133, VIT University
-![](14BME0133Mediumcarbonsteel12.bmp)
+![](14BME0133G3Mediumcarbonsteel12.bmp)  
 Medium - MEDIUM : Carbon Steel
+
+
+
+
+---
 
 
 #### C && Fe Alloy : HIGH DOPE
 ##### Carbon Steel Microstructure analysis by 14BME0133, VIT University
-![](14BME0133Highcarbonsteel1.bmp)
+![](14BME0133Highcarbonsteel1)  
 High - MEDIUM : Carbon Steel
 
 
-#### C && Fe : CWhiteast Iron Alloy
+
+
+---
+
+
+#### White = Cast Iron Alloy
 ##### Carbon Steel Microstructure analysis by 14BME0133, VIT University
-![](14BME0133Whitecastiron1.bmp)
+![](14BME0133G3Whitecastiron1)
 
 
-#### C && Fe : NodularCast Iron Alloy
+
+
+---
+
+
+####  b Nodular Cast Iron Alloy
 ##### Carbon Steel Microstructure analysis by 14BME0133, VIT University
 ![](14BME0133Nodularcastiron1.bmp)
 
 
-#### C && Fe : Grey Cast Iron Alloy
+
+
+---
+
+
+#### cvbcx Grey Cast Iron Alloy
 ##### Carbon Steel Microstructure analysis by 14BME0133, VIT University
 ![](14BME0133Greycastiron1.bmp)
+
+
+
+
+---
 
 
 ---
 
 Mentored by Dr. Geetha M., CBST, VIT University
  - [x] Credits
+  - [x] CC0 
 
 
 ---
