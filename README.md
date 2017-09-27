@@ -20,35 +20,35 @@ Low - LOW : Carbon Steel
 
 
 #### C && Fe Alloy : LOW DOPEcastironon Steel Microstructure analysis by 14BME0133, VIT University
-![](14BME0133G3Medium11carbonsteel11.bmp)
+![](14BME0133G3Mediumcarbonsteel11.bmp)
 Medium - LOW : Carbon Steel
 
 
 #### C && Fe Alloy : MEDIUM
 ##### Carbon Steel Microstructure analysis by 14BME0133, VIT University
-![](14BME0133Medium11arbonsteel12.bmp)
+![](14BME0133Mediumcarbonsteel12.bmp)
 Medium - MEDIUM : Carbon Steel
 
 
 #### C && Fe Alloy : HIGH DOPE
 ##### Carbon Steel Microstructure analysis by 14BME0133, VIT University
-![](14BME0133Highcarbonsteel.bmp)
+![](14BME0133Highcarbonsteel1.bmp)
 High - MEDIUM : Carbon Steel
 
 
 #### C && Fe : CWhiteast Iron Alloy
 ##### Carbon Steel Microstructure analysis by 14BME0133, VIT University
-![](14BME0133Whitecastiron.bmp)
+![](14BME0133Whitecastiron1.bmp)
 
 
 #### C && Fe : NodularCast Iron Alloy
 ##### Carbon Steel Microstructure analysis by 14BME0133, VIT University
-![](14BME0133Nodularcastiron.bmp)
+![](14BME0133Nodularcastiron1.bmp)
 
 
 #### C && Fe : Grey Cast Iron Alloy
 ##### Carbon Steel Microstructure analysis by 14BME0133, VIT University
-![](14BME0133Greycastiron.bmp)
+![](14BME0133Greycastiron1.bmp)
 
 
 ---
@@ -62,14 +62,19 @@ Mentored by Dr. Geetha M., CBST, VIT University
 
 <<SCRIPT>
 
-(•_•)
-<)   )╯LOOK
-/    \
+(•_•)  
+<)   )╯LOOK  
+/    \   
+   
+\(•_•)   
+(   (> FOR   
+/    \   
 
-\(•_•)
-(   (> FOR
-/    \
+ (•_•)   
+<)   )>  DIS   
+/    \   
+   
 
- (•_•)
-<)   )>  DIS
-/    \
+---
+
+(C) 2017-18 <a href="14bme0133.github.io"> /< 1 4 B M E 0 1 3 3 /> </a>
