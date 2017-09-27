@@ -24,7 +24,7 @@ Materials Engineering and Technology
 
 #### Carbon Steel under observation:
 ##### spectral specimen
-![](14BME0133AL1G3Lowcarbonstee.bmp)
+![](14BME0133G3Lowcarbonstee.bmp)
 Low - LOW : Carbon Steel
 
 
